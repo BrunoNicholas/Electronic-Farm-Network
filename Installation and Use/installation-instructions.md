@@ -1,0 +1,1 @@
+# This will take you through how you wil install the app on you apache local enviroment or server.
